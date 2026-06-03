@@ -11,10 +11,10 @@ The actual game is about a desktop friend who can rewrite his own code via his v
 <br> <img src="https://raw.githubusercontent.com/Nicky-lul/TurbowarpTextExtension/refs/heads/main/ISEEYOU.png" height="100" alt="custom_emoji">
 
 <!-- Centered with the text baseline -->
-<p>This is <img src="https://raw.githubusercontent.com/Nicky-lul/DesktopBuddyExe/refs/heads/main/message_block.png" style="vertical-align: middle;"> inline text.</p>
+<p>This is <img src="https://raw.githubusercontent.com/Nicky-lul/DesktopBuddyExe/refs/heads/main/message_block.png" height="30" style="vertical-align: middle;"> inline text.</p>
 
 <!-- Aligned with the top of the text -->
-<p>This is <img src="https://raw.githubusercontent.com/Nicky-lul/DesktopBuddyExe/refs/heads/main/message_block.png" style="vertical-align: top;"> inline text.</p>
+<p>This is <img src="https://raw.githubusercontent.com/Nicky-lul/DesktopBuddyExe/refs/heads/main/message_block.png" height="30" style="vertical-align: top;"> inline text.</p>
 
 <!-- Aligned with the bottom of the text -->
-<p>This is <img src="https://raw.githubusercontent.com/Nicky-lul/DesktopBuddyExe/refs/heads/main/message_block.png" style="vertical-align: bottom;"> inline text.</p>
+<p>This is <img src="https://raw.githubusercontent.com/Nicky-lul/DesktopBuddyExe/refs/heads/main/message_block.png" height="30" style="vertical-align: bottom;"> inline text.</p>
