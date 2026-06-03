@@ -9,3 +9,12 @@ is a Psychological horror game of the same category of games like Doki-Doki Lite
 
 The actual game is about a desktop friend who can rewrite his own code via his very own Advanced Programming Integration (API), and can adapt to what you need——his goal is to be the BEST friend possible. You don't need another friend after DesktopBuddy, ever again! You can be friends forever. Forever. FOREVER ☺.
 <br> <img src="https://raw.githubusercontent.com/Nicky-lul/TurbowarpTextExtension/refs/heads/main/ISEEYOU.png" height="100" alt="custom_emoji">
+
+<!-- Centered with the text baseline -->
+<p>This is <img src="icon.png" style="vertical-align: middle;"> inline text.</p>
+
+<!-- Aligned with the top of the text -->
+<p>This is <img src="icon.png" style="vertical-align: top;"> inline text.</p>
+
+<!-- Aligned with the bottom of the text -->
+<p>This is <img src="icon.png" style="vertical-align: bottom;"> inline text.</p>
