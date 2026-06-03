@@ -18,7 +18,7 @@
   </style>
 </head>
 <body>
-  <div id="content"></div>
+  <div id="content">Waiting for HTML...</div>
 
   <script>
     const content = document.getElementById("content");
@@ -27,6 +27,8 @@
       if (typeof event.data !== "string") return;
 
       content.innerHTML = event.data;
+
+      event.source.postMessage("Recieved & loaded!", event.origin);
     });
   </script>
 </body>
